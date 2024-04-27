@@ -23,7 +23,7 @@ Welcome to the [Travel web page] landing page repository! This repository contai
 
 ## Getting Started
 
-1. Clone the repository: https://github.com/ShreeAmble003/CODSOFT---LEVEL-1---TASK-2---LANDING PAGE.git
+1. Clone the repository: https://github.com/ShreeAmble003/CODSOFT---LEVEL-1---TASK-2---LANDING-PAGE.git
   
 2. Navigate to the project directory: cd - LANDING PAGE
 
