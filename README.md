@@ -1,4 +1,4 @@
-# [Project Name] Landing Page
+# [Travel web page] Landing Page
 
 Welcome to the [Travel web page] landing page repository! This repository contains all the files necessary to deploy and maintain our landing page.
 
